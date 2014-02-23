@@ -1,26 +1,38 @@
-body {
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-	font-weight: 300;
-   	font-size: 1em;
-   	line-height: 1.7;
-	color:black;
-	background-color: #FAFAFA;
-	text-align: center;
-	margin: 0 auto;
+.jumbotron {
+	background-color: #caeefc;
 }
-a {
-	text-decoration: none;
-	color: #0a4ecc;
-                /* 0a4ecc 0a1c5c e8430c dededb ffc766 */
-           }
-        .logo {
-        	margin-top: 4em;
 
-			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-   			font-weight: 300;
-			font-size: 2.8em;
-			letter-spacing: .1em;
-			text-transform: uppercase;
-			display: block;
-			margin-bottom: .5em;
-		}
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-color:gray;
+}
+
+.btn-lg{
+	background-color: #ff8c6d;
+	border-width: 0px;
+}
+
+.logo {
+	margin-left: -8px;
+	margin-top: -5px;
+}
+
+.desc {
+	color:#878787;
+}
+
+.uppercase {
+	color:#878787;
+	text-transform:uppercase;
+	font-size: 1.5em;
+}
+
+.sect {
+	padding-bottom: 200px;
+	text-align: justify;
+}
+
+a.spots {
+	color: #ff8c6d;
+}
