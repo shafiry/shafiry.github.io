@@ -33,6 +33,12 @@ body {
 	text-align: justify;
 }
 
+/*@media (max-width: 500px){
+	.sect{
+		padding: 30px;
+	}
+}*/
+
 a.spots {
 	color: #ff8c6d;
 }
