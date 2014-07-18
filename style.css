@@ -25,12 +25,12 @@ body {
 .uppercase {
 	color:#878787;
 	text-transform:uppercase;
-	font-size: 3em;
+	font-size: 2em;
 }
 
 .sect {
 	/*padding-bottom: 200px;*/
-	text-align: justify;
+	text-align: left;
 }
 
 /*@media (max-width: 500px){
