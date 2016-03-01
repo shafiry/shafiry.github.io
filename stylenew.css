@@ -1,0 +1,40 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color:#2c3e50;
+  background-color:#ecf0f1;
+}
+
+.jumbotron {
+  background-color: #3b5998;
+  font-family: 'Arvo', serif;
+  font-size: 5em;
+}
+
+.jumbotron a {
+  color: white
+}
+
+.sect {
+  font-size: 3em;
+}
+
+.date {
+  font-size: 1.5em;
+}
+
+.desc {
+  font-size: 1.5em;
+}
+
+.company {
+  font-weight: 700;
+}
+
+.location {
+
+}
+
+.job-title {
+  font-style: italic;
+}
